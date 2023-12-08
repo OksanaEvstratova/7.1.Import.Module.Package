@@ -13,4 +13,3 @@ if __name__ == '__main__':
     salary.calculate_salary(people.get_employees())
     print(f'---end - from main.py')
 
-    investorzilla.Portfolio
